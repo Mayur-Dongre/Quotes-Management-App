@@ -1,0 +1,23 @@
+.header {
+    height: 50px; width: 100%; background-color: navy; color: orange; align-content: baseline;
+}
+
+.footer {
+    height: 100px; width: 100%; background-color: orange; color: navy;
+}
+
+.myTable {
+    background-color: beige; text-align: center; margin-left: 50px; margin-right: 50px;
+}
+
+.quoteDiv {
+    border-style: outset; width: 50%; margin-top: 10px; margin-bottom: 10px;
+}
+
+.quote {
+    color: orangered; font-size: x-large; font-style: italic;
+}
+
+input {
+    margin-left: 50px; margin-right: 50px; margin-top: 10px;
+}
